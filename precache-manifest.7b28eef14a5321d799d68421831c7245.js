@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "/reactportfolio/static/media/voyageur.24c49360.JPG"
   },
   {
-    "revision": "a892cbb9df5b3b2af3e42ded0489208b",
-    "url": "/reactportfolio/static/media/bootstrap-icons.a892cbb9.woff"
-  },
-  {
     "revision": "093ee89be9ede30383f39a899c485a82",
     "url": "/reactportfolio/static/media/Poppins-Regular.093ee89b.ttf"
+  },
+  {
+    "revision": "a892cbb9df5b3b2af3e42ded0489208b",
+    "url": "/reactportfolio/static/media/bootstrap-icons.a892cbb9.woff"
   },
   {
     "revision": "08c20a487911694291bd8c5de41315ad",
