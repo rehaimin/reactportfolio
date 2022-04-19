@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "5df826681baa2a0f211a",
+    "revision": "05621f75adb4f2b81b2a",
     "url": "./static/css/main.d4a5d50f.chunk.css"
   },
   {
-    "revision": "5df826681baa2a0f211a",
-    "url": "./static/js/main.5df82668.chunk.js"
+    "revision": "05621f75adb4f2b81b2a",
+    "url": "./static/js/main.05621f75.chunk.js"
   },
   {
     "revision": "f1285abc84976e3ca874",
@@ -56,12 +56,12 @@ self.__precacheManifest = [
     "url": "./static/media/voyageur.24c49360.JPG"
   },
   {
-    "revision": "a892cbb9df5b3b2af3e42ded0489208b",
-    "url": "./static/media/bootstrap-icons.a892cbb9.woff"
-  },
-  {
     "revision": "093ee89be9ede30383f39a899c485a82",
     "url": "./static/media/Poppins-Regular.093ee89b.ttf"
+  },
+  {
+    "revision": "a892cbb9df5b3b2af3e42ded0489208b",
+    "url": "./static/media/bootstrap-icons.a892cbb9.woff"
   },
   {
     "revision": "08c20a487911694291bd8c5de41315ad",
@@ -72,7 +72,7 @@ self.__precacheManifest = [
     "url": "./static/media/bg.5067a6c4.jpg"
   },
   {
-    "revision": "974c34ab6f2f2ee1cd3ecedd258b5abb",
+    "revision": "d5f0df4ac91ce8eb9ddd7f3a69d5624b",
     "url": "./index.html"
   }
 ];
