@@ -220,6 +220,7 @@ main {
 .menu-btn {
 	font-size: 1.8rem;
 	transform: translateY(4px);
+	cursor: pointer;
 }
 
 .menu-btn {

@@ -10,12 +10,12 @@ export default class Header extends Component {
 							<div>
 								<h1>&lt;Mohammed REHAIMIN/&gt;</h1>
 							</div>
-							<a href="/" role="button" className="theme-btn">
+							<span role="button" className="theme-btn">
 								&#xF494;
-							</a>
-							<a href="/" role="button" className="menu-btn" id="menuBtn">
+							</span>
+							<span role="button" className="menu-btn" id="menuBtn">
 								&#xF479;
-							</a>
+							</span>
 						</div>
 						<div className="col-6 nav">
 							<nav>
