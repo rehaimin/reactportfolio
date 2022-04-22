@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "52d8a7c2593f86c6ce95",
-    "url": "/reactportfolio/static/css/main.0b7c0b79.chunk.css"
+    "revision": "448e72f762c84adf87db",
+    "url": "/reactportfolio/static/css/main.4787427e.chunk.css"
   },
   {
-    "revision": "52d8a7c2593f86c6ce95",
-    "url": "/reactportfolio/static/js/main.52d8a7c2.chunk.js"
+    "revision": "448e72f762c84adf87db",
+    "url": "/reactportfolio/static/js/main.448e72f7.chunk.js"
   },
   {
     "revision": "f1285abc84976e3ca874",
@@ -56,10 +56,6 @@ self.__precacheManifest = [
     "url": "/reactportfolio/static/media/voyageur.24c49360.JPG"
   },
   {
-    "revision": "08c20a487911694291bd8c5de41315ad",
-    "url": "/reactportfolio/static/media/Poppins-Bold.08c20a48.ttf"
-  },
-  {
     "revision": "a892cbb9df5b3b2af3e42ded0489208b",
     "url": "/reactportfolio/static/media/bootstrap-icons.a892cbb9.woff"
   },
@@ -68,11 +64,15 @@ self.__precacheManifest = [
     "url": "/reactportfolio/static/media/Poppins-Regular.093ee89b.ttf"
   },
   {
+    "revision": "08c20a487911694291bd8c5de41315ad",
+    "url": "/reactportfolio/static/media/Poppins-Bold.08c20a48.ttf"
+  },
+  {
     "revision": "5067a6c4ca23ec58aa6ef46b365a97dc",
     "url": "/reactportfolio/static/media/bg.5067a6c4.jpg"
   },
   {
-    "revision": "9ddfc87610618cc61e443dfe0031c9f6",
+    "revision": "c3bb67b8194e434e68d9902238f4cdb6",
     "url": "/reactportfolio/index.html"
   }
 ];
