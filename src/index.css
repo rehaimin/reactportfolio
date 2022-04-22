@@ -127,6 +127,13 @@ body {
 	width: 1140px;
 	margin: auto;
 }
+#header,
+#perso,
+#projects,
+#blog,
+#contact {
+	width: 100%;
+}
 
 .flex {
 	display: flex;
