@@ -4,8 +4,7 @@ const myProjectsBtn = document.querySelector(".perso a");
 
 const menuBtn = document.querySelector(".menu-btn");
 
-menuBtn.addEventListener("click", (e) => {
-	e.preventDefault();
+menuBtn.addEventListener("click", () => {
 	navCol.classList.toggle("nav-display");
 });
 
@@ -29,8 +28,7 @@ scrollTop.addEventListener("click", (e) => {
 });
 
 const themeBtn = document.querySelector(".theme-btn");
-themeBtn.addEventListener("click", (e) => {
-	e.preventDefault();
+themeBtn.addEventListener("click", () => {
 	if (getCssVariable("--bg") == darkTheme.bg) {
 		toggleTheme(lightTheme);
 		themeBtn.innerHTML = "&#xF494;";
