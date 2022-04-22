@@ -1,4 +1,4 @@
-let lightTheme = {
+export let lightTheme = {
 	text: "#242424",
 	bg: "#b8b8b8",
 	bgTransparent: "#9c9c9cf2",
@@ -6,7 +6,7 @@ let lightTheme = {
 	mainBg: "#ffffff33",
 	name: "light",
 };
-let darkTheme = {
+export let darkTheme = {
 	text: "#b1b1b1",
 	bg: "#121215",
 	bgTransparent: "#000000cc",
@@ -15,15 +15,15 @@ let darkTheme = {
 	name: "dark",
 };
 
-function getCssVariable(cssVar) {
+export function getCssVariable(cssVar) {
 	return getComputedStyle(document.documentElement).getPropertyValue(cssVar);
 }
 
-function SetCssVariable(cssVar, value) {
+export function SetCssVariable(cssVar, value) {
 	return document.documentElement.style.setProperty(cssVar, value);
 }
 
-function toggleTheme(theme) {
+export function toggleTheme(theme) {
 	SetCssVariable("--text", theme.text);
 	SetCssVariable("--bg", theme.bg);
 	SetCssVariable("--bgTransparent", theme.bgTransparent);
@@ -35,7 +35,6 @@ function toggleTheme(theme) {
 if (localStorage.getItem("theme") == "dark") {
 	toggleTheme(darkTheme);
 	window.addEventListener("DOMContentLoaded", () => {
-		let themeBtn = document.querySelector(".theme-btn");
-		themeBtn.innerHTML = "&#xF5A1;";
+		document.querySelector(".theme-btn").innerHTML = "&#xF5A1;";
 	});
 }

@@ -1,7 +1,7 @@
 {
-  "main.css": "/reactportfolio/static/css/main.4787427e.chunk.css",
-  "main.js": "/reactportfolio/static/js/main.448e72f7.chunk.js",
-  "main.js.map": "/reactportfolio/static/js/main.448e72f7.chunk.js.map",
+  "main.css": "/reactportfolio/static/css/main.32770a74.chunk.css",
+  "main.js": "/reactportfolio/static/js/main.c8109b2f.chunk.js",
+  "main.js.map": "/reactportfolio/static/js/main.c8109b2f.chunk.js.map",
   "static/js/1.f1285abc.chunk.js": "/reactportfolio/static/js/1.f1285abc.chunk.js",
   "static/js/1.f1285abc.chunk.js.map": "/reactportfolio/static/js/1.f1285abc.chunk.js.map",
   "runtime~main.js": "/reactportfolio/static/js/runtime~main.f3444e3a.js",
@@ -17,8 +17,8 @@
   "static/media/trello.JPG": "/reactportfolio/static/media/trello.e41d266b.JPG",
   "static/media/voyageur.JPG": "/reactportfolio/static/media/voyageur.24c49360.JPG",
   "static/media/index.css": "/reactportfolio/static/media/bg.5067a6c4.jpg",
-  "static/css/main.4787427e.chunk.css.map": "/reactportfolio/static/css/main.4787427e.chunk.css.map",
+  "static/css/main.32770a74.chunk.css.map": "/reactportfolio/static/css/main.32770a74.chunk.css.map",
   "index.html": "/reactportfolio/index.html",
-  "precache-manifest.f14abd6e131bdb1efb0695df0ff6d7f4.js": "/reactportfolio/precache-manifest.f14abd6e131bdb1efb0695df0ff6d7f4.js",
+  "precache-manifest.5a4ddf8905e78b18b309e4e8636d88b5.js": "/reactportfolio/precache-manifest.5a4ddf8905e78b18b309e4e8636d88b5.js",
   "service-worker.js": "/reactportfolio/service-worker.js"
 }

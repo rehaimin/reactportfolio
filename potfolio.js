@@ -16,17 +16,6 @@ nav.addEventListener("click", () => {
 	}
 });
 
-function scrollToTop() {
-	const mainContainer = document.querySelector(".main-container");
-	mainContainer.scrollTo(0, 0);
-}
-
-const scrollTop = document.querySelector(".scrollTop");
-scrollTop.addEventListener("click", (e) => {
-	e.preventDefault();
-	scrollToTop();
-});
-
 const themeBtn = document.querySelector(".theme-btn");
 themeBtn.addEventListener("click", () => {
 	if (getCssVariable("--bg") == darkTheme.bg) {
