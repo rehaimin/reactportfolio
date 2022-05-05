@@ -3,7 +3,7 @@ class Scrolltop extends React.Component {
 	render() {
 		return (
 			<div className="scrollTop">
-				<a href="/" role="button">
+				<a href="#header" role="button">
 					&#xF139;
 				</a>
 			</div>

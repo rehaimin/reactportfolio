@@ -17,14 +17,6 @@
 	font-style: normal;
 }
 
-:root {
-	--text: #242424;
-	--bg: #b8b8b8;
-	--bgTransparent: #9c9c9cf2;
-	--secondary: #4d4d4d;
-	--mainBg: #ffffff33;
-}
-
 body {
 	margin: 0;
 	letter-spacing: 0.1rem;
@@ -33,6 +25,20 @@ body {
 	background-position: center;
 	background-attachment: fixed;
 	background-size: cover;
+
+	--text: #242424;
+	--bg: #b8b8b8;
+	--bgTransparent: #9c9c9cf2;
+	--secondary: #4d4d4d;
+	--mainBg: #ffffff33;
+}
+
+body.dark {
+	--text: #b1b1b1;
+	--bg: #121215;
+	--bgTransparent: #000000cc;
+	--secondary: #4d4d4d;
+	--mainBg: #000000cc;
 }
 
 ::-webkit-scrollbar {
@@ -371,9 +377,10 @@ section {
 	opacity: 0.25;
 	display: none;
 	z-index: 999;
+	cursor: pointer;
 }
 
-.scrollTop > a {
+.scrollTop > * {
 	font-size: 2.5em;
 }
 
