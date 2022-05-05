@@ -15,7 +15,7 @@ class Perso extends React.Component {
 		return (
 			<section className="perso container hidden visible" id="perso">
 				<div className="flex align-items-center space-between">
-					<div className="col-6">
+					<div className="col-6 colTab-12">
 						<h2>
 							Hey, I am <br />a <span>Web Developer</span>
 						</h2>
@@ -28,7 +28,7 @@ class Perso extends React.Component {
 							My projects
 						</Link>
 					</div>
-					<div className="myPic col-6">
+					<div className="myPic col-6 colTab-12">
 						<img src={myPic} alt="" />
 					</div>
 				</div>

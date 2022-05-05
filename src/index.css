@@ -428,6 +428,10 @@ section {
 	.colTab-6 {
 		width: 50%;
 	}
+	.colTab-12 {
+		width: 100%;
+	}
+
 	@keyframes goUp {
 		from {
 			transform: translateY(100vh);
@@ -451,8 +455,5 @@ section {
 	}
 	.perso .flex {
 		flex-direction: column-reverse;
-	}
-	.myPic {
-		text-align: center;
 	}
 }

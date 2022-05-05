@@ -1,13 +1,16 @@
 import React from "react";
-class Scrolltop extends React.Component {
-	render() {
-		return (
-			<div className="scrollTop">
-				<a href="#header" role="button">
-					&#xF139;
-				</a>
-			</div>
-		);
-	}
+function Scrolltop() {
+	return (
+		<div className="scrollTop">
+			<span
+				role="button"
+				onClick={() =>
+					document.querySelector(".main-container").scrollTo(0, 0)
+				}>
+				&#xF139;
+			</span>
+		</div>
+	);
 }
+
 export default Scrolltop;
