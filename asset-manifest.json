@@ -1,9 +1,9 @@
 {
-  "main.css": "/reactportfolio/static/css/main.caa13818.chunk.css",
-  "main.js": "/reactportfolio/static/js/main.4027d441.chunk.js",
-  "main.js.map": "/reactportfolio/static/js/main.4027d441.chunk.js.map",
-  "static/js/1.618250d2.chunk.js": "/reactportfolio/static/js/1.618250d2.chunk.js",
-  "static/js/1.618250d2.chunk.js.map": "/reactportfolio/static/js/1.618250d2.chunk.js.map",
+  "main.css": "/reactportfolio/static/css/main.ba13b3c9.chunk.css",
+  "main.js": "/reactportfolio/static/js/main.965fd63c.chunk.js",
+  "main.js.map": "/reactportfolio/static/js/main.965fd63c.chunk.js.map",
+  "static/js/1.f1285abc.chunk.js": "/reactportfolio/static/js/1.f1285abc.chunk.js",
+  "static/js/1.f1285abc.chunk.js.map": "/reactportfolio/static/js/1.f1285abc.chunk.js.map",
   "runtime~main.js": "/reactportfolio/static/js/runtime~main.f3444e3a.js",
   "runtime~main.js.map": "/reactportfolio/static/js/runtime~main.f3444e3a.js.map",
   "static/media/me4.png": "/reactportfolio/static/media/me4.5566f250.png",
@@ -17,8 +17,8 @@
   "static/media/trello.JPG": "/reactportfolio/static/media/trello.e41d266b.JPG",
   "static/media/voyageur.JPG": "/reactportfolio/static/media/voyageur.24c49360.JPG",
   "static/media/index.css": "/reactportfolio/static/media/bg.5067a6c4.jpg",
-  "static/css/main.caa13818.chunk.css.map": "/reactportfolio/static/css/main.caa13818.chunk.css.map",
+  "static/css/main.ba13b3c9.chunk.css.map": "/reactportfolio/static/css/main.ba13b3c9.chunk.css.map",
   "index.html": "/reactportfolio/index.html",
-  "precache-manifest.b9bb1d2f55df385f18196d1ecbe5519f.js": "/reactportfolio/precache-manifest.b9bb1d2f55df385f18196d1ecbe5519f.js",
+  "precache-manifest.50aeaff61947608bd1ea55fa89f6af85.js": "/reactportfolio/precache-manifest.50aeaff61947608bd1ea55fa89f6af85.js",
   "service-worker.js": "/reactportfolio/service-worker.js"
 }
