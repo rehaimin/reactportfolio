@@ -17,7 +17,7 @@ export default class Header extends Component {
 	}
 	render() {
 		return (
-			<header>
+			<header className="flex align-items-center">
 				<div className="container">
 					<div className="flex" id="header">
 						<div className="col-6 flex space-between align-items-center title">

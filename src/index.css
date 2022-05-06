@@ -235,7 +235,7 @@ main {
 
 nav * {
 	padding: 0;
-	display: inline;
+	display: inline-block;
 }
 nav ul {
 	justify-content: right;
